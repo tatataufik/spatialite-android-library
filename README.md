@@ -1,0 +1,2 @@
+spatialite-android-library
+==========================
