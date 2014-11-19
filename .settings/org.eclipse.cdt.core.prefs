@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/NDKROOT/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/NDKROOT/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/NDKROOT/value=/opt/android-ndk-r10
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/appendContributed=true
