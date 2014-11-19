@@ -625,6 +625,7 @@ config.status:675: creating jniwrap/Makefile
 config.status:675: creating jniwrap/org/Makefile
 config.status:675: creating jniwrap/org/proj4/Makefile
 config.status:675: creating src/proj_config.h
+config.status:906: src/proj_config.h is unchanged
 config.status:952: executing depfiles commands
 
 ## ---------------- ##
@@ -728,15 +729,15 @@ lt_lt_cv_sys_global_symbol_to_cdecl='"sed -n -e '\''s/^. .* \\(.*\\)\$/extern in
 ## Output variables. ##
 ## ----------------- ##
 
-ACLOCAL='${SHELL} /home/tata/Downloads/spatialite-for-android-3.0.1/spatialite-for-android/spatialite-android/spatialite-android-library/jni/proj-4.7.0/missing --run aclocal-1.10'
+ACLOCAL='${SHELL} /home/tata/workspace-android/spatialite-android-library/jni/proj-4.7.0/missing --run aclocal-1.10'
 AMDEPBACKSLASH='\'
 AMDEP_FALSE='#'
 AMDEP_TRUE=''
-AMTAR='${SHELL} /home/tata/Downloads/spatialite-for-android-3.0.1/spatialite-for-android/spatialite-android/spatialite-android-library/jni/proj-4.7.0/missing --run tar'
+AMTAR='${SHELL} /home/tata/workspace-android/spatialite-android-library/jni/proj-4.7.0/missing --run tar'
 AR='ar'
-AUTOCONF='${SHELL} /home/tata/Downloads/spatialite-for-android-3.0.1/spatialite-for-android/spatialite-android/spatialite-android-library/jni/proj-4.7.0/missing --run autoconf'
-AUTOHEADER='${SHELL} /home/tata/Downloads/spatialite-for-android-3.0.1/spatialite-for-android/spatialite-android/spatialite-android-library/jni/proj-4.7.0/missing --run autoheader'
-AUTOMAKE='${SHELL} /home/tata/Downloads/spatialite-for-android-3.0.1/spatialite-for-android/spatialite-android/spatialite-android-library/jni/proj-4.7.0/missing --run automake-1.10'
+AUTOCONF='${SHELL} /home/tata/workspace-android/spatialite-android-library/jni/proj-4.7.0/missing --run autoconf'
+AUTOHEADER='${SHELL} /home/tata/workspace-android/spatialite-android-library/jni/proj-4.7.0/missing --run autoheader'
+AUTOMAKE='${SHELL} /home/tata/workspace-android/spatialite-android-library/jni/proj-4.7.0/missing --run automake-1.10'
 AWK='gawk'
 CC='arm-linux-androideabi-gcc'
 CCDEPMODE='depmode=gcc3'
@@ -773,7 +774,7 @@ LTLIBOBJS=''
 MAINT='#'
 MAINTAINER_MODE_FALSE=''
 MAINTAINER_MODE_TRUE='#'
-MAKEINFO='${SHELL} /home/tata/Downloads/spatialite-for-android-3.0.1/spatialite-for-android/spatialite-android/spatialite-android-library/jni/proj-4.7.0/missing --run makeinfo'
+MAKEINFO='${SHELL} /home/tata/workspace-android/spatialite-android-library/jni/proj-4.7.0/missing --run makeinfo'
 MUTEX_SETTING='pthread'
 OBJEXT='o'
 PACKAGE='proj'
@@ -821,7 +822,7 @@ host_vendor='linux'
 htmldir='${docdir}'
 includedir='${prefix}/include'
 infodir='${datarootdir}/info'
-install_sh='$(SHELL) /home/tata/Downloads/spatialite-for-android-3.0.1/spatialite-for-android/spatialite-android/spatialite-android-library/jni/proj-4.7.0/install-sh'
+install_sh='$(SHELL) /home/tata/workspace-android/spatialite-android-library/jni/proj-4.7.0/install-sh'
 libdir='${exec_prefix}/lib'
 libexecdir='${exec_prefix}/libexec'
 localedir='${datarootdir}/locale'

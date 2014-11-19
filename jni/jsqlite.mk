@@ -17,7 +17,8 @@ LOCAL_CFLAGS	:= -D__ANDROID__ \
 LOCAL_LDLIBS	:= -llog
 LOCAL_C_INCLUDES := \
 	$(SPATIALITE_PATH)/headers/spatialite \
-	$(JSQLITE_PATH)/native/
+	$(JSQLITE_PATH)/native \
+	$(SQLITE_PATH)
 LOCAL_SRC_FILES := \
 	$(JSQLITE_PATH)/native/sqlite_jni.c
 LOCAL_STATIC_LIBRARIES := spatialite iconv proj geos
